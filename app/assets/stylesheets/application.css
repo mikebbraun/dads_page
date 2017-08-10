@@ -47,6 +47,10 @@
   text-align: center;
 }
 
+.header_2 && .col-sm-4 {
+  text-
+}
+
 .side_1 {
   border: solid;
   float: left;
