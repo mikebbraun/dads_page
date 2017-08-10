@@ -1,24 +1,7 @@
-# README
+Dads Page!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin15]
 
-Things you may want to cover:
+Practicing my code to create a landing page for my dad, which he may or may not use.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The aim is for the site to be inviting and to allow visitors to contact his office.
