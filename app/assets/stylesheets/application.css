@@ -14,22 +14,32 @@
  *= require_self
  */
 
+body {
+  background-color: orange;
+}
 
 .body_1 {
   /*border: solid;*/
   /*background-color: lightblue;*/
   /*padding: 1.5em;*/
   margin: 1.5em;
+  background-color: white;
+}
+
+.header_0 {
+  background-color: black;
 }
 
 .header_1 {
   /*border: solid;*/
+  background-color: teal;
   height: 50px;
-  color: black;
+  color: white;
+  font-style: italic;
+  font-size: 20px;
   text-align: center;
-  margin-top: 1em;
-  padding-bottom: 1em;
   margin-bottom: 1em;
+  padding-top: .5em;
 }
 .footer_1 {
   /*border: solid;*/
@@ -42,14 +52,15 @@
 
 .header_2 {
   border: solid;
-  background-color: white;
+  /*background-color: white;*/
   height: 300px;
+  text-align: right;
+}
+
+.header_2 {
   text-align: center;
 }
 
-.header_2 && .col-sm-4 {
-  text-
-}
 
 .side_1 {
   border: solid;
