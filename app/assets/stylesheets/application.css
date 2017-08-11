@@ -14,18 +14,6 @@
  *= require_self
  */
 
-body {
-  background-color: orange;
-}
-
-.body_1 {
-  /*border: solid;*/
-  /*background-color: lightblue;*/
-  /*padding: 1.5em;*/
-  margin: 1.5em;
-  background-color: white;
-}
-
 .header_0 {
   background-color: black;
 }
@@ -52,7 +40,7 @@ body {
 
 .header_2 {
   border: solid;
-  /*background-color: white;*/
+  background-color: orange;
   height: 300px;
   text-align: right;
 }
@@ -61,18 +49,32 @@ body {
   text-align: center;
 }
 
+.header_3 {
+  border-bottom: solid;
+  margin: 1em 2em;
+}
 
 .side_1 {
-  border: solid;
+  /*border: solid;*/
   float: left;
   padding: 2em;
 }
 .main_1 {
-  border: solid;
+  border-left: solid;
   float: left;
-  padding: 1em;
+  padding: 1em 2em 1em 1em;
+}
+.third_1 {
+  font-family: Arial;
+  color: white;
+  font-size: 16px;
 }
 
-.dropdown {
-  
+.footer_1 {
+  border-top: solid;
+  margin: 1em 2em;
+}
+
+.btn {
+  background-color: teal;
 }
